@@ -1,6 +1,10 @@
 <div align="center">
 # 💫 About Me:
-Hi there 👋<br><br>Welcome to my GitHub profile! Here’s a little about me:<br><br>🔭 Current Projects:<br><br>Building a Study Buddy App for improved collaboration and study organization.<br><br>Exploring machine learning techniques for time series analysis in healthcare.<br><br>Developing an NFL prediction model using scikit-learn and historical game data.<br><br><br>🌱 What I’m Learning:<br><br>PHP, HTML, CSS for dynamic web development.<br><br>Advanced techniques in Unity and game mechanics.<br><br>Improving patient-doctor communication using natural language processing (NLP).<br><br><br>🎮 Hobbies:<br><br>3D printing, gaming, and experimenting with AI.<br><br>Combining technology with creative problem-solving.<br><br><br>🌟 Fun Facts:<br><br>Based in Baltimore, Maryland.<br><br>Passionate about environmental health, particularly creating impactful PSAs.<br><br><br>📫 Let's Connect:<br><br>Check out my portfolio or current projects!<br><br>Reach me via email or follow me here for updates!
+Hi there 👋<br><br>Welcome to my GitHub profile! Here’s a little about me:<br><br>🔭
+Current Projects:<br><br>Building a Study Buddy App for improved collaboration and study organization.<br><br>Exploring machine learning techniques for time series analysis in healthcare.<br><br>Developing an NFL prediction model using scikit-learn and historical game data.<br><br><br>
+🌱 What I’m Learning:<br><br>PHP, HTML, CSS for dynamic web development.<br>
+<br>Convolutional Neural Networks (CNN) built using  TensorFlow/Keras for image classification<br>
+<br>Improving patient-doctor communication using natural language processing (NLP).<br><br><br>🎮 Hobbies:<br><br>3D printing, gaming, and experimenting with AI.<br><br>Combining technology with creative problem-solving.<br><br><br>🌟 Fun Facts:<br><br>Based in Baltimore, Maryland.<br><br>Passionate about environmental health, particularly creating impactful PSAs.<br><br><br>📫 Let's Connect:<br><br>Check out my portfolio or current projects!<br><br>Reach me via email or follow me here for updates!
 
 
 ## 🌐 Socials:
