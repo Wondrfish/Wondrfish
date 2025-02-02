@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 Hi there 👋<br><br>Welcome to my GitHub profile! Here’s a little about me:<br><br>🔭 Current Projects:<br><br>Building a Study Buddy App for improved collaboration and study organization.<br><br>Exploring machine learning techniques for time series analysis in healthcare.<br><br>Developing an NFL prediction model using scikit-learn and historical game data.<br><br><br>🌱 What I’m Learning:<br><br>PHP, HTML, CSS for dynamic web development.<br><br>Advanced techniques in Unity and game mechanics.<br><br>Improving patient-doctor communication using natural language processing (NLP).<br><br><br>🎮 Hobbies:<br><br>3D printing, gaming, and experimenting with AI.<br><br>Combining technology with creative problem-solving.<br><br><br>🌟 Fun Facts:<br><br>Based in Baltimore, Maryland.<br><br>Passionate about environmental health, particularly creating impactful PSAs.<br><br><br>📫 Let's Connect:<br><br>Check out my portfolio or current projects!<br><br>Reach me via email or follow me here for updates!
 
@@ -12,12 +13,13 @@ Hi there 👋<br><br>Welcome to my GitHub profile! Here’s a little about me:<b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wondrfish&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wondrfish&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## <center>🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wondrfish&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Wondrfish&icon=6&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Wondrfish&icon=6&color=10)](https://visitcount.itsvg.in) 
 
+</div>
