@@ -1,5 +1,5 @@
 <div align="center">
-# 💫 About Me:
+💫 About Me:
 Hi there 👋<br><br>Welcome to my GitHub profile! Here’s a little about me:<br><br>🔭
 Current Projects:<br><br>Building a Study Buddy App for improved collaboration and study organization.<br><br>Exploring machine learning techniques for time series analysis in healthcare.<br><br>Developing an NFL prediction model using scikit-learn and historical game data.<br><br><br>
 🌱 What I’m Learning:<br><br>PHP, HTML, CSS for dynamic web development.<br>
@@ -17,8 +17,10 @@ Current Projects:<br><br>Building a Study Buddy App for improved collaboration a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wondrfish&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wondrfish&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## <center>🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Wondrfish&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wondrfish&show_icons=true&theme=dark)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
