@@ -1,5 +1,5 @@
 <div align="center">
-# 💫 About Me:
+💫 About Me:
 Hi there 👋
 
 Welcome to my GitHub profile! Here's a little about me:
