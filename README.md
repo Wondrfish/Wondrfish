@@ -6,25 +6,25 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🔭 Current Projects:
 
-Building a Study Buddy App for improved collaboration and study organization.
+AI Life Assistant – An AI-powered tool for allergen detection using OCR and NLP.
 
-Exploring machine learning techniques for time series analysis in healthcare.
+Study Buddy App – Enhancing collaboration and study organization with real-time features.
 
-Developing an NFL prediction model using scikit-learn and historical game data.
+NFL Prediction Model – Leveraging scikit-learn and historical data for game outcome predictions.
 
 ## 🌱 What I'm Learning:
 
-PHP, HTML, CSS for dynamic web development.
+Web Development – PHP, HTML, and CSS for dynamic and interactive sites.
 
-Convolutional Neural Networks (CNN) built using TensorFlow/Keras for image classification.
+Machine Learning – Exploring CNNs with TensorFlow/Keras for image classification.
 
-Improving patient-doctor communication using natural language processing (NLP).
+NLP Applications – Improving patient-doctor communication through AI-driven text analysis.
 
 ## 🎮 Hobbies:
 
-3D printing, gaming, and experimenting with AI.
+3D printing, gaming, and AI experimentation.
 
-Combining technology with creative problem-solving.
+Blending technology with creative problem-solving.
 
 ## 🌟 Fun Facts:
 
