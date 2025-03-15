@@ -1,6 +1,5 @@
 <div align="center">
-💫 About Me:
-Hi there 👋
+Hello I'm Ajani/Wondr
 
 Welcome to my GitHub profile! Here's a little about me:
 
@@ -8,7 +7,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 AI Life Assistant – An AI-powered tool for allergen detection using OCR and NLP.
 
-Study Buddy App – Enhancing collaboration and study organization with real-time features.
+AI Food Allergen detection model in Krenas
 
 NFL Prediction Model – Leveraging scikit-learn and historical data for game outcome predictions.
 
