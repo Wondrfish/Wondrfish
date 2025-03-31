@@ -9,7 +9,7 @@ AI Life Assistant – An AI-powered tool for allergen detection using OCR and NL
 
 AI Food Allergen detection model in Krenas
 
-NFL Prediction Model – Leveraging scikit-learn and historical data for game outcome predictions.
+F1 Race Winner Prediction Model – Leveraging scikit-learn and historical data for game outcome predictions.
 
 ## 🌱 What I'm Learning:
 
