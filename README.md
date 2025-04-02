@@ -27,6 +27,6 @@ DevOps & Tools
 🎨 E-commerce for Streamers – Selling art as live stream backgrounds
 
 🌍 Socials & Contact
-<p align="left"> <a href="mailto:ajjoh4@morgan.edu"> <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://https://https://ajanijohnsonswe.great-site.net/?i=1"> <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=internet-explorer&logoColor=white"/> </a> <a href="https://github.com/Wondrfish"> <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<p align="left"> <a href="mailto:ajjoh4@morgan.edu"> <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://ajanijohnsonswe.great-site.net/?i=1"> <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=internet-explorer&logoColor=white"/> </a> <a href="https://github.com/Wondrfish"> <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
 </div>
