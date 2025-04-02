@@ -28,6 +28,7 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
 
  🧠 **AI Life Assistant** – ML-powered productivity assistant
  ♟️ **Quantum Chess** – A chess game with superposition mechanics
+ 
  🎵 **Audio Recognition System** – Shazam-like app using Go
  🎨 **E-commerce for Streamers** – Selling art as live stream backgrounds
 
