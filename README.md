@@ -14,7 +14,7 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
 ### 🛠 Tech & Tools
 
 **Languages & Frameworks**  
-[![Tech Stack](https://skillicons.dev/icons?i=go,python,js,html,css,php,flask,django)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=go,python,js,html,css,php,flask,django,react)](https://skillicons.dev)
 
 **Databases & Cloud**  
 [![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,gcp)](https://skillicons.dev)
