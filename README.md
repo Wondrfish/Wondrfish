@@ -3,7 +3,7 @@ Ajani "Wondrfish" Johnson
   
 *Web & AI Developer*
 
-Building real-time apps, AI models, and interactive experiences. Passionate about Go, Python, WebSockets, and ML. Working on Quantum Chess, AI Life Assistant, and a Shazam-like audio recognition system.
+Building real-time apps, AI models, and interactive experiences. Passionate about Go, Python, and ML. Working on Ranked study platform, AI Life Assistant, and a Shazam-like audio recognition system.
 
 **"Code like an artist, optimize like an engineer."**
 
