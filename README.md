@@ -29,7 +29,7 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
  🧠 **Job-ME** – ML-powered job match/apply web app
  🎵 **Audio Recognition System** – Shazam-like app using Go
  🎨 **E-commerce for Streamers** – Selling art as live stream backgrounds
- **STONKS** – Learn stocks and etf With social Media
+ **STONKS** – Learn stocks and ETF's With social Media
 
 ---
 
