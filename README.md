@@ -26,9 +26,12 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
 
 ### 🚀 Current Projects
 
- 🧠 **Job-ME** – ML-powered job match/apply web app
- 🎵 **A platformer** – 2 platformers one 3d one 2d in C# & Kotlin/Dart
- 🎨 **E-commerce for Streamers** – Selling art as live stream backgrounds
+  **Job-ME** – ML-powered job match/apply web app
+ 
+  **A platformer** – 2 platformers one 3d one 2d in C# & Kotlin/Dart
+ 
+  **E-commerce for Streamers** – Selling art as live stream backgrounds
+ 
  **STONKS** – Learn stocks and ETF's With social Media/ Tic Tok - For local/classroom enviroments
 
 ---
