@@ -30,7 +30,7 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
  
   **A platformer** – 2 platformers one 3d one 2d in C# & Kotlin/Dart
  
-  **E-commerce for Streamers** – Selling art as live stream backgrounds
+  **E-commerce for Streamers** – Live aderisment platform for streamers doordash for ads
  
  **STONKS** – Learn stocks and ETF's With social Media/ Tic Tok - For local/classroom enviroments
 
