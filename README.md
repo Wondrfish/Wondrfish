@@ -32,7 +32,7 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
  
   **E-commerce for Streamers** – Live aderisment platform for streamers doordash for ads
  
- **STONKS** – Learn stocks and ETF's With social Media/ Tic Tok - For local/classroom enviroments
+ **STONKS 2.0** – Learn stocks and ETF's With Steam web Api - For local/classroom enviroments
 
 ---
 
