@@ -14,7 +14,7 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
 ### 🛠 Tech & Tools
 
 **Languages & Frameworks**  
-[![Tech Stack](https://skillicons.dev/icons?i=go,python,js,html,css,php,flask,django,react,cs,kotlin)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=go,python,js,ts,threejs,html,css,php,flask,django,react,cs,kotlin&perline=7)](https://skillicons.dev)
 
 **Databases & Cloud**  
 [![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,gcp,mongo)](https://skillicons.dev)
@@ -30,7 +30,7 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
  
   **A platformer** – 2 platformers one 3d one 2d in C# & Kotlin/Dart
  
-  **E-commerce for Streamers** – Live aderisment platform for streamers doordash for ads
+  **E-commerce for Streamers** – Live aderisment platform for streamers  Think "doordash for ads"
  
  **STONKS 2.0** – Learn stocks and ETF's With Steam web Api - For local/classroom enviroments
 
