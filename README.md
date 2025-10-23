@@ -40,8 +40,7 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wondrfish&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wondrfish&theme=dark&hide_border=false&include_all_commits=true&count_private=false)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wondrfish&theme=dark&hide_border=false)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wondrfish&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://ajanijohnsonswe.great-site.net/?i=1)
