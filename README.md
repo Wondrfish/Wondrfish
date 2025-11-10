@@ -28,7 +28,7 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
 
   **Job-ME** – ML-powered job match/apply web app
  
-  **A platformer** – 2 platformers one 3d one 2d in C# & Kotlin/Dart
+  **Break Away** – a 3d game made in unity c#
  
   **E-commerce for Streamers** – Live aderisment platform for streamers  Think "doordash for ads"
  
