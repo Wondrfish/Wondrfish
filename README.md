@@ -20,7 +20,7 @@ Building real-time apps, AI models, and interactive experiences. Passionate abou
 [![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,gcp,mongo)](https://skillicons.dev)
 
 **DevOps & Tools**  
-[![DevOps & Tools](https://skillicons.dev/icons?i=docker,github,git,linux,vscode,aws)](https://skillicons.dev)
+[![DevOps & Tools](https://skillicons.dev/icons?i=docker,github,git,linux,vscode,aws,unity)](https://skillicons.dev)
 
 ---
 
