@@ -97,9 +97,6 @@ _“Code like an artist. Optimize like an engineer.”_
 
   <!-- Top Languages -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wondrfish&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-  <!-- WakaTime Stats -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=Wondrfish&range=last_7_days&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 
