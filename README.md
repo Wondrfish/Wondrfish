@@ -87,6 +87,16 @@ _“Code like an artist. Optimize like an engineer.”_
   <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" />
 </div>
 
+✈️ Air Slip
+
+Smart airline ticket comparison tool balancing price, flexibility, and carbon impact
+
+<div> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> </div>
 
 
 # 📊 GitHub & Coding Stats
