@@ -129,5 +129,8 @@ Command-line tool for parsing and analyzing server logs.
 <sub>
 Build simple systems · Automate what matters · Focus on reliability
 </sub>
-
+<br>
+<sub>
+  𐑢𐑳𐑯𐑕 𐑥𐑷𐑮 𐑳𐑯𐑑𐑵 𐑞 𐑚𐑮𐑰𐑗, 𐑛𐑦𐑮 𐑓𐑮𐑧𐑯𐑛𐑟, 𐑢𐑳𐑯𐑕 𐑥𐑷𐑮
+</sub>
 </div>
