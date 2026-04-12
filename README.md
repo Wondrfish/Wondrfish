@@ -2,14 +2,11 @@
 
 # Ajani Johnson  
 ### Backend • DevOps • Systems  
-
 <p>
   Building reliable backend systems, automation pipelines, and scalable infrastructure.<br>
   <strong>Go · Python · CI/CD · Distributed Systems</strong>
 </p>
-
 <br>
-
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
@@ -20,18 +17,36 @@
 
 </div>
 
+---
+
 <div align="center">
 
-## Featured Project
+## Featured Projects
 
 </div>
 
-### Go API + CI/CD Pipeline  
+### Ratio'd  
+<p>
+PR crisis simulator where AI personas react dynamically to everything you say. Built solo in 24 hours at HackHounds 2026.
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=flat"/>
+</p>
 
+- Built a FastAPI backend proxying parallel Claude API calls across four distinct AI personas
+- Engineered persona memory threading — each character retains context across all three rounds
+- Implemented a multimodal video apology pipeline: MediaRecorder → Whisper transcription → Claude Vision tone analysis
+- Designed a reputation scoring engine with weighted reputation deltas per round
+
+<br>
+
+### Go API + CI/CD Pipeline  
 <p>
 Containerized backend service with automated build and deployment workflow.
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
@@ -45,6 +60,8 @@ Containerized backend service with automated build and deployment workflow.
 
 <br>
 
+---
+
 <div align="center">
 
 ## Projects
@@ -55,7 +72,6 @@ Containerized backend service with automated build and deployment workflow.
 <p>
 Airline ticket comparison platform focused on pricing transparency and flexibility.
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
@@ -74,7 +90,6 @@ Airline ticket comparison platform focused on pricing transparency and flexibili
 <p>
 3D game focused on performance-driven gameplay systems.
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
@@ -91,7 +106,6 @@ Airline ticket comparison platform focused on pricing transparency and flexibili
 <p>
 Lightweight service for tracking system availability and latency.
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 </p>
@@ -106,7 +120,6 @@ Lightweight service for tracking system availability and latency.
 <p>
 Command-line tool for parsing and analyzing server logs.
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 </p>
@@ -117,20 +130,22 @@ Command-line tool for parsing and analyzing server logs.
 
 <br>
 
+---
+
 <div align="center">
 
 ## Links
 
 <a href="https://ajanijohnsonswe.great-site.net/?i=1">Portfolio</a> · 
-<a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+<a href="https://linkedin.com/in/yourprofile">LinkedIn</a> ·
+<a href="https://github.com/Wondrfish/Ratio-d">Ratio'd</a>
 
 <br><br>
 
-<sub>
-Build simple systems · Automate what matters · Focus on reliability
-</sub>
+<sub>Build simple systems · Automate what matters · Focus on reliability</sub>
+
 <br>
-<sub>
-  𐑢𐑳𐑯𐑕 𐑥𐑷𐑮 𐑳𐑯𐑑𐑵 𐑞 𐑚𐑮𐑰𐑗, 𐑛𐑦𐑮 𐑓𐑮𐑧𐑯𐑛𐑟, 𐑢𐑳𐑯𐑕 𐑥𐑷𐑮
-</sub>
+
+<sub>𐑢𐑳𐑯𐑕 𐑥𐑷𐑮 𐑳𐑯𐑑𐑵 𐑞 𐑚𐑮𐑰𐑗, 𐑛𐑦𐑮 𐑓𐑮𐑧𐑯𐑛𐑟, 𐑢𐑳𐑯𐑕 𐑥𐑷𐑮</sub>
+
 </div>
