@@ -113,8 +113,6 @@ Command-line tool for parsing and analyzing server logs.
 
 <br>
 
----
-
 <div align="center">
 
 ## Links
@@ -123,11 +121,11 @@ Command-line tool for parsing and analyzing server logs.
 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> ·
 <a href="https://github.com/Wondrfish/Ratio-d">Ratio'd</a>
 
-<br><br>
+
 
 <sub>Build simple systems · Automate what matters · Focus on reliability</sub>
 
-<br>
+
 
 <sub>𐑢𐑳𐑯𐑕 𐑥𐑷𐑮 𐑳𐑯𐑑𐑵 𐑞 𐑚𐑮𐑰𐑗, 𐑛𐑦𐑮 𐑓𐑮𐑧𐑯𐑛𐑟, 𐑢𐑳𐑯𐑕 𐑥𐑷𐑮</sub>
 
