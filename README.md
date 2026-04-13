@@ -17,7 +17,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -60,7 +59,6 @@ Containerized backend service with automated build and deployment workflow.
 
 <br>
 
----
 
 <div align="center">
 
@@ -86,21 +84,6 @@ Airline ticket comparison platform focused on pricing transparency and flexibili
 
 <br>
 
-### Break Away  
-<p>
-3D game focused on performance-driven gameplay systems.
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-repo-blue?logo=github"/>
-</p>
-
-- Built gameplay mechanics and interaction systems  
-- Implemented physics-based controls and behaviors  
-- Optimized for smooth real-time performance  
-
-<br>
 
 ### Uptime Monitor  
 <p>
