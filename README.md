@@ -34,7 +34,7 @@ A paper investing app that turns YouTube creators into simulated stocks, helping
 ## Links
 
 <a href="https://ajanijohnsonswe.great-site.net/?i=1">Portfolio</a> ·
-<a href="https://linkedin.com/in/yourprofile">LinkedIn</a> ·
+<a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
 
 
 <br><br>
