@@ -41,7 +41,7 @@ A paper investing app that turns YouTube creators into simulated stocks, helping
 
 <sub>Build simple systems · Automate what matters · Focus on reliability</sub>
 
-<br><br>
+
 
 <sub>𐑢𐑳𐑯𐑕 𐑥𐑷𐑮 𐑳𐑯𐑑𐑵 𐑞 𐑚𐑮𐑰𐑗, 𐑛𐑦𐑮 𐑓𐑮𐑧𐑯𐑛𐑟, 𐑢𐑳𐑯𐑕 𐑥𐑷𐑮</sub>
 
